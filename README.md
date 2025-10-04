@@ -9,13 +9,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c++" height="60" alt="c++ logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arch linux" height="60" alt="arch linux logo"  />
+  <img src="https://skillicons.dev/icons?i=arch" height="60" alt="arch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
